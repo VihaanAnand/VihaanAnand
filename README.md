@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **VihaanAnand/VihaanAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Cool Stuff
+I'm working on a website: [https://vihaananand.github.io/](vihaananand.github.io). You can see all of my cool stuff there:
+- Chromebook exploits
+- YouTube channel
+- Projects
+- Contact info
+- And more!
+# GitHub Stats
+![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanAnand&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanAnand&langs_count=4&layout=pie&theme=dark)
