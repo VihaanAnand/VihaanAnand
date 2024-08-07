@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Cool Stuff
 I'm working on a website: [https://untitled.is-a.dev/](untitled.is-a.dev). You can see all of my cool stuff there:
-- Chromebook exploits
 - YouTube channel
 - Projects
 - Contact info
