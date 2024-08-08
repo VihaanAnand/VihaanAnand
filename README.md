@@ -22,4 +22,4 @@ I'm working on a website: [https://untitled.is-a.dev/](untitled.is-a.dev). You c
 - And more!
 # GitHub Stats
 ![Untitled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VihaanAnand&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
-![Untitled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanAnand&langs_count=20&layout=pie&theme=dark)
+![Untitled's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanAnand&langs_count=16&layout=pie&theme=dark)
